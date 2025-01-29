@@ -3,11 +3,11 @@ build
 dist
 .docs
 .coverage
-node_modules
 package-lock.json
 yarn.lock
 .DS_Store
 .next
+.idea
 .vscode
 test-results
 playwright-report
